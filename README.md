@@ -6,6 +6,10 @@
 - 📫 How to reach me: [onur93arikan@gmail.com](mailto:onur93arikan@gmail.com)
 
 ---
+## CV
+- 🔗 You can reach my CV **[here](https://opethef10.github.io/resume/)**
+
+---
 ## My Projects
 - **Flagsweeper**: Multiplayer version of Minesweeper game we all know, written in PyGame
 - **PySplendor**: Splendor board game in command line interface
