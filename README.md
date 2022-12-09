@@ -18,6 +18,7 @@
 - **formula1_elo**: Ranking the fastest Formula 1 drivers by using the Elo scoring system.
 - **astronomy**: Some astronomy related programs
 
+You can see these projects and more at repository tab above.
 <!---
 opethef10/opethef10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
