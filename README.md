@@ -16,7 +16,7 @@
 - **[PySplendor](https://github.com/opethef10/PySplendor)**: Splendor board game in command line interface
 - **[simpleF1simulator](https://github.com/opethef10/simpleF1simulator)**: A simple Formula 1 simulator which outputs race results after given inputs
 - **[Syllabify-Turkish](https://github.com/opethef10/Syllabify-Turkish)**: A simple Javascript program which divide a Turkish sentence into its syllables
-- **[formula1_elo](https://github.com/opethef10/PySplendor)**: Ranking the fastest Formula 1 drivers by using the Elo scoring system.
+- **[formula1_elo](https://github.com/opethef10/formula1_elo)**: Ranking the fastest Formula 1 drivers by using the Elo scoring system.
 
 You can see these projects and more at repository tab above.
 <!---
