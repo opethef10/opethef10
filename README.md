@@ -1,5 +1,5 @@
 ## Hi, I’m Onur Arıkan
-- 🌱 I’m currently studying **Computer Engineering** at **[Middle East Technical University](https://www.metu.edu.tr/)**
+- 🌱 I’m a **Computer Engineer** passionate about building innovative software solutions
 - 💞️ I’m interested in personal projects which help me improve my programming skills
 - 🔭 I'm interested in **Python/C/C++/Java/Javascript** languages and **Django/Pygame/Pandas** frameworks
 - 👀 I’m looking for a **remote** work opportunity in the **international** work environment
