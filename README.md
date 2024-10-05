@@ -11,8 +11,8 @@
 
 ---
 ## My Projects
-- **Formula 1 Fantasy League (2017-)**: An online guessing game for Formula 1 developed in Python's Django framework which requires budget management and strategy skills, first and only one in Turkey, played by hundreds of people. **[On its own website 🔗](https://tinyurl.com/formula1turkiye)**
-- **Splendid**: Intelligent design system for the board game called Splendor, being developed through Django and Channels, it is a web application that can be played as multiplayer or against AI in real time. It uses a robust and modern authentication system and Elo rating system for ranking and fair matchmaking.
+- **[Formula 1 Fantasy League (2017-)](https://tinyurl.com/formula1turkiye)**: An online guessing game for Formula 1 developed in Python's Django framework which requires budget management and strategy skills, first and only one in Turkey, played by hundreds of people.
+- **[Splendid](https://senior.ceng.metu.edu.tr/2024/SPLENDID/)**: Intelligent design system for the board game called Splendor, being developed through Django and Channels, it is a web application that can be played as multiplayer or against AI in real time. It uses a robust and modern authentication system and Elo rating system for ranking and fair matchmaking.
 - **[Flagsweeper](https://github.com/opethef10/Flagsweeper)**: Multiplayer version of Minesweeper game we all know, written in PyGame
 - **[PySplendor](https://github.com/opethef10/PySplendor)**: Splendor board game in command line interface
 - **[simpleF1simulator](https://github.com/opethef10/simpleF1simulator)**: A simple Formula 1 simulator which outputs race results after given inputs
