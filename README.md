@@ -1,8 +1,8 @@
 ## Hi, I’m Onur Arıkan
 - 🌱 I’m a **Computer Engineer** passionate about building innovative software solutions
 - 💞️ I’m interested in personal projects which help me improve my programming skills
-- 🔭 I'm interested in **Python/C/C++/Java/Javascript** languages and **Django/Pygame/Pandas** frameworks
-- 👀 I’m looking for a **remote** work opportunity in the **international** work environment
+- 🔭 I'm interested in **Python/C/C++/C#/Java/Javascript** languages and **Django/Pygame/Pandas** frameworks
+- 👀 I’m looking for a work opportunity in the **international** work environment
 - 📫 How to reach me: **[onur93arikan@gmail.com](mailto:onur93arikan@gmail.com)**
 
 ---
