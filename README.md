@@ -15,9 +15,13 @@
 - **[Splendid](https://senior.ceng.metu.edu.tr/2024/SPLENDID/)**: Intelligent design system for the board game called Splendor, being developed through Django and Channels, it is a web application that can be played as multiplayer or against AI in real time. It uses a robust and modern authentication system and Elo rating system for ranking and fair matchmaking.
 - **[Flagsweeper](https://github.com/opethef10/Flagsweeper)**: Multiplayer version of Minesweeper game we all know, written in PyGame
 - **[PySplendor](https://github.com/opethef10/PySplendor)**: Splendor board game in command line interface
+- **[Solar System Plotter](https://github.com/opethef10/SolarSystemPlotter)**: A simple Python program which plots the solar system with given parameters, in heliocentric or geocentric view with an option to generate an animated GIF showing movements over time.
+- **[Habit Tracker](https://github.com/opethef10/habit_tracker)**: A simple habit tracker which helps you to track your habits and visualize your progress
 - **[simpleF1simulator](https://github.com/opethef10/simpleF1simulator)**: A simple Formula 1 simulator which outputs race results after given inputs
 - **[Syllabify-Turkish](https://github.com/opethef10/Syllabify-Turkish)**: A simple Javascript program which divide a Turkish sentence into its syllables
 - **[formula1_elo](https://github.com/opethef10/formula1_elo)**: Ranking the fastest Formula 1 drivers by using the Elo scoring system.
+- **[ChatCSV](https://github.com/opethef10/chat_csv)**: A simple Python program which converts WhatsApp or Telegram chat history into a CSV file and creates analysis on it
+- **[Elo Rating Calculator](https://github.com/opethef10/elo_calculator)**: This script calculates the Elo rating adjustment for two players based on their current ratings and the outcome of their match.
 
 You can see these projects and more at repository tab above.
 <!---
