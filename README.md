@@ -15,7 +15,7 @@
 - **[Splendid](https://senior.ceng.metu.edu.tr/2024/SPLENDID/)**: Intelligent design system for the board game called Splendor, being developed through Django and Channels, it is a web application that can be played as multiplayer or against AI in real time. It uses a robust and modern authentication system and Elo rating system for ranking and fair matchmaking.
 - **[Flagsweeper](https://github.com/opethef10/Flagsweeper)**: Multiplayer version of Minesweeper game we all know, written in PyGame
 - **[PySplendor](https://github.com/opethef10/PySplendor)**: Splendor board game in command line interface
-- **[Solar System Plotter](https://github.com/opethef10/SolarSystemPlotter)**: A simple Python program which plots the solar system with given parameters, in heliocentric or geocentric view with an option to generate an animated GIF showing movements over time.
+- **[Solar System Plotter](https://github.com/opethef10/solar_system_plotter)**: A simple Python program which plots the solar system with given parameters, in heliocentric or geocentric view with an option to generate an animated GIF showing movements over time.
 - **[Habit Tracker](https://github.com/opethef10/habit_tracker)**: A simple habit tracker which helps you to track your habits and visualize your progress
 - **[simpleF1simulator](https://github.com/opethef10/simpleF1simulator)**: A simple Formula 1 simulator which outputs race results after given inputs
 - **[Syllabify-Turkish](https://github.com/opethef10/Syllabify-Turkish)**: A simple Javascript program which divide a Turkish sentence into its syllables
