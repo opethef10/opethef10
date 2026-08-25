@@ -7,7 +7,7 @@
 
 ---
 ## CV
-- 🔗 You can reach my CV **[here](https://blog.onurarikan.dev/resume/)**
+- 🔗 You can reach my CV **[here](https://cv.onurarikan.dev)**
 
 ---
 ## My Projects
