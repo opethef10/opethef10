@@ -25,8 +25,8 @@
 
 You can see these projects and more at repository tab above.
 
-[![Opethef10's GitHub stats](https://github-readme-stats.vercel.app/api?username=opethef10&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opethef10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Opethef10's GitHub stats](https://github-stats-extended.vercel.app/api?username=opethef10&show_icons=true&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=opethef10&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=opethef10)
 <!---
